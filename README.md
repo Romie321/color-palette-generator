@@ -67,7 +67,7 @@ That’s it — no build steps required.
 - Explore color theory and palette generation logic
 
 - Continue improving the UI and backend as I learn
-- 
+  
 
 ## 🗂️ Project Status
 
